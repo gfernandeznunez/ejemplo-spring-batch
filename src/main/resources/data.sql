@@ -1,0 +1,2 @@
+insert into in_especialidad values (1,'MEDICINA GENERAL', true);
+insert into in_profesional(ID, RUT, NOMBRES, APELLIDOS, CORREO, UNIVERSIDAD, ESPECIALIDAD_ID) values(1, '12345678-5', 'Adrián', 'Medina', 'adrian.medina@gmail.com', 'IP CHILE', 1);
